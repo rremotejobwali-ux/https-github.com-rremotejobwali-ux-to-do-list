@@ -1,0 +1,5 @@
+{
+  "name": "to do list",
+  "description": "A smart, minimalist to-do list application featuring AI-powered task breakdown, persistent storage, and a clean, responsive UI.",
+  "requestFramePermissions": []
+}
